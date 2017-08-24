@@ -1,5 +1,7 @@
 *.log
 *.pot
 *.pyc
+*.egg-info
+.DS_Store
 local_settings.py
 dist
